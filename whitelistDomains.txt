@@ -1,4 +1,3 @@
-
 *.microsoft.com
 *.microsoftonline.com
 *.microsoft.net
