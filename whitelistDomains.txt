@@ -10,27 +10,20 @@
 *.gstatic.com
 *.googleapis.com
 
-# AMAZON AWS
 *.amazonaws.com
 
-# GDATA
 *.gdata.de
 *.gdadasecurity.com
 
-# OVH et serveurs SMTP
 ns0.ovh.com
 ssl0.ovh.com
 
-# Darktrace et Antigena Email
 *.antigena.com
 
-# 3CX
 *.3cx.com
 
-# DNS
 zero.dns0.eu
 
-#Réseaux Sociaux
 *.whatsapp.net
 *.facebook.com
 *.linkedin.com
