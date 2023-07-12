@@ -1,0 +1,41 @@
+#Liste d'autorisation des domaines Whitelist pour LES PEP GUYANE
+
+# Microsoft365 et Microsoft
+
+*.microsoft.com
+*.microsoftonline.com
+*.microsoft.net
+*.windows.net
+*.office.com
+
+# Google
+*.google.com
+*.googleapis.com
+*.gstatic.com
+*.googleapis.com
+
+# AMAZON AWS
+*.amazonaws.com
+
+# GDATA
+*.gdata.de
+*.gdadasecurity.com
+
+# OVH et serveurs SMTP
+ns0.ovh.com
+ssl0.ovh.com
+
+# Darktrace et Antigena Email
+*.antigena.com
+
+# 3CX
+*.3cx.com
+
+# DNS
+zero.dns0.eu
+
+#Réseaux Sociaux
+*.whatsapp.net
+*.facebook.com
+*.linkedin.com
+
