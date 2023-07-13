@@ -3,6 +3,7 @@ microsoftonline.com
 microsoft.net
 windows.net
 office.com
+office.net
 google.com
 googleapis.com
 gstatic.com
