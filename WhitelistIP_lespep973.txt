@@ -1,4 +1,4 @@
-microsoft.com
+﻿microsoft.com
 microsoftonline.com
 microsoft.net
 windows.net
