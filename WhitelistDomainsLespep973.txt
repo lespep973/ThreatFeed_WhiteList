@@ -1,3 +1,4 @@
+
 microsoft.com
 microsoftonline.com
 microsoft.net
@@ -7,6 +8,8 @@ office.net
 live.com
 azure.com
 msn.com
+azure-dns.com
+sharepoint.com
 github.com
 *.trafficmanager.net
 google.com
@@ -29,12 +32,15 @@ facebook.com
 linkedin.com
 lespep973.org
 akamaiedge.net
+akadns.net
 dns0.eu
 zdassets.com
 bing.com
 digicert.com
 mozilla.org
 simplydesk.com
+bitwarden.com
 dropbox.com
 akadns.net
 cloudfront.net
+discord.com
