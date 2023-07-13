@@ -34,6 +34,7 @@ zdassets.com
 bing.com
 digicert.com
 mozilla.org
+simplydesk.com
 dropbox.com
 akadns.net
 cloudfront.net
