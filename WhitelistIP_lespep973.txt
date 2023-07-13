@@ -6,6 +6,7 @@ office.com
 office.net
 live.com
 azure.com
+msn.com
 *.trafficmanager.net
 google.com
 google-analytics.com
