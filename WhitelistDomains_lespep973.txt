@@ -7,6 +7,7 @@ office.net
 live.com
 azure.com
 msn.com
+github.com
 *.trafficmanager.net
 google.com
 google-analytics.com
@@ -35,5 +36,4 @@ digicert.com
 mozilla.org
 dropbox.com
 akadns.net
-
-
+cloudfront.net
