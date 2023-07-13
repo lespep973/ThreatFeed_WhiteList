@@ -33,4 +33,6 @@ bing.com
 digicert.com
 mozilla.org
 dropbox.com
+akadns.net
+
 
